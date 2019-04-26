@@ -12,6 +12,24 @@ function dibujaTarjetas(arreglo) {
 }
 
 function ordenaPorHabitacion(arreglo) {
+	function qsort(registro){
+		if(registro.length<=1)
+			return registro;
+
+	{else}
+	var pivote=math.rand()*(registro.length-1);
+var max=[];
+var min=[];
+var p=[];
+for(var numHabitacion int registro)
+if (pivote>numHabitacion)
+	min.push(numHabitacion);
+else if (pivote<el)
+max.push(numHabitacion);
+else
+p.push(numHabitacion);
+
+return (qsort(min)).concat(p.qsort(max));
 	//En esta función escribe la función que ordenará el arreglo por habitación
 }
 

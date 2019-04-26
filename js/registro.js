@@ -7,4 +7,8 @@ var registro = [
 	{numHabitacion: "45", nombreHuesped: "Miyamoto Musashi"},
 	{numHabitacion: "93", nombreHuesped: "Amelia Earhart"},
 	{numHabitacion: "47", nombreHuesped: "Katherin Janeway"}
-];
+];.0
+
+	
+ 
+
